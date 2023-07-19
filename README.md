@@ -1,3 +1,3 @@
 # React-Native-Push-Notification
 
-- Module to integrate Maps in react native app
+- Module to integrate Push Notifications in react native app
